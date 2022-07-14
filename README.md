@@ -45,9 +45,9 @@
 
 
 ## 팀원
-  - 고성범
-  - 이창완
-  - 임현
-  - 정광수
+  - [고성범](https://github.com/SeongBeomKo)
+  - [이창완](https://github.com/pierrecw)
+  - [임현](https://github.com/HyunIm)
+  - [정광수](https://github.com/hehahihang)
 
 <p align="right">(<a href="#top">맨 위로</a>)</p>
